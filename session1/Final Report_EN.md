@@ -675,6 +675,11 @@ Overall, this project has highlighted the importance of teamwork, adaptability, 
 
 ## 9. Appendix :bookmark:
 
+### Project GitHub Repository
+
+You can find the complete project, including code and documentation, on GitHub:
+
+
 ### Maze_final.c
 
 ```c

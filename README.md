@@ -1,4 +1,4 @@
-以下是根据您的项目目录结构和运行要求撰写的 **README.md** 示例：  
+  
 
 ---
 
@@ -104,11 +104,8 @@ The project includes a set of test cases (`tests.c`) to validate:
 ## 👨‍💻 Authors and Acknowledgements  
 This project is a collaborative effort by the team. Special thanks to **Florent Bouchez-Tichadou** for inspiring the problem statement and guidance.  
 
---- 
+---
 
 ## ⚖️ License  
 This project is licensed under the [MIT License](LICENSE).  
 
----
-
-希望这个README清晰且易于理解，能帮助展示您的项目成果！
